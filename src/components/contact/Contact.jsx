@@ -82,7 +82,7 @@ const Contact = () => {
                     <h2 className='font-bold text-xl md:text-3xl text-gray-800'>Our Contact Info</h2>
                     <div className='flex space-x-4 items-center'>
                         <BsFillTelephoneFill className='text-[#FFE227]' />
-                        <span className='text-gray-500'>+234 XXX XXXX XXX</span>
+                        <span className='text-gray-500'>+234 803 329 6399</span>
                     </div>
 
                     <div className='flex space-x-4 items-center'>

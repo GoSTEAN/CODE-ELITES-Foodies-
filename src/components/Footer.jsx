@@ -17,7 +17,7 @@ function Footer() {
         </ul>
       </div>
       <p>
-        Made with <span>{heart}</span>
+        © Code Elites <span>{heart}</span>
       </p>
     </footer>
   );
